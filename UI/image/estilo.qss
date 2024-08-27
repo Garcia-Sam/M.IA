@@ -1,0 +1,62 @@
+QMainWindow {
+    border: 1px solid grey;
+    background-color: #f8f8ff;
+}
+
+QLabel#texto_previsualizacao {
+    color: #070700;
+    font-size: 15px;
+    font-weight: 480;
+    padding: 10px 10px 10px 0px;
+}
+
+QTableView {
+    border: 1px solid grey;
+    background-color: white;
+}
+
+QLabel#texto_informativo{
+    color: grey;
+    padding: 13px;
+    font-size: 14px;
+    font-weight: 480;
+}
+
+QPushButton {
+    height: 30px;
+    padding: 13px;
+    color: #f8f8ff;
+    font-size: 14px;
+    font-weight: 480;
+    border-radius: 10px;
+    border: 1px solid grey;
+    background-color: #135dac;
+}
+
+QPushButton#botao_salvar,
+QPushButton#botao_carregar {
+    margin: 9px 2px 0px 0px;
+}
+
+QPushButton:hover {
+    background-color: #0c3c6e;
+}
+
+QProgressBar {
+    height: 50px;
+    border-radius: 10px;
+    border: 1px solid grey;
+    margin: 9px 2px 0px 0px;
+}
+
+QProgressBar::chunk {
+    border-radius: 5px;
+    background-color: green; /* Cor do progresso */
+}
+
+QLabel#label_rodape {
+    font-size: 13px;
+    font-weight: 480;
+    margin: 2px 2px 2px 0px;
+    padding: 15px 15px 15px 0px;'
+}
