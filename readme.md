@@ -8,8 +8,9 @@ além de aplicar regras específicas para identificar a justiça e o tribunal as
 
 - **NUP:** 00410.061155/2024-76
 
-![Imagem Front-end do Robô M.IA](../M.IA/UI/image/mia_front_end.png)
-
+<div align='center'>
+    <img src='https://github.com/user-attachments/assets/56076c15-5f74-40a6-a81a-c72725e92aca' width='750px' />
+</div>
 
 ## Arquivo de Entrada
 
