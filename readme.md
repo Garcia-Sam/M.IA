@@ -35,7 +35,9 @@ Independentemente do número de colunas presentes no arquivo, apenas as seguinte
 
 - **Manuseio de Arquivos Excel:** Lê e escreve arquivos Excel, com suporte para múltiplas planilhas, preservando as colunas relevantes para cada categoria de processos.
 
+## Referências
 
+- Para composição dos números do processo: [Composição do NUP e PJ.pdf](https://github.com/user-attachments/files/16785044/Composicao.do.NUP.e.PJ.pdf)
 
 ## Dependências
 
