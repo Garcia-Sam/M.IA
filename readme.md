@@ -1,4 +1,8 @@
-# M.IA
+## M.IA
+
+<div align='center'>
+    <img src='https://github.com/user-attachments/assets/f159ea6b-914e-41fd-9288-8d676ae62d10' alt='Ícone do Robô M.IA' width='150px' />
+</div>
 
 Este projeto é uma aplicação Python para processar números de processos judiciais a partir de arquivos Excel.
 Ele formata, classifica, e organiza os números de processos em diferentes categorias (Judicial, NUP, Inválido),
@@ -9,7 +13,7 @@ além de aplicar regras específicas para identificar a justiça e o tribunal as
 - **NUP:** 00410.061155/2024-76
 
 <div align='center'>
-    <img src='https://github.com/user-attachments/assets/56076c15-5f74-40a6-a81a-c72725e92aca' width='750px' />
+    <img src='https://github.com/user-attachments/assets/56076c15-5f74-40a6-a81a-c72725e92aca' alt='Imagem do Front-End do Robô M.IA' width='750px' />
 </div>
 
 ## Arquivo de Entrada
