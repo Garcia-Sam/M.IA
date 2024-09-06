@@ -46,6 +46,7 @@ Independentemente do número de colunas presentes no arquivo, apenas as seguinte
 ## Referências
 
 - **Para composição dos números do processo:** [Composição do NUP e PJ.pdf](https://github.com/user-attachments/files/16785044/Composicao.do.NUP.e.PJ.pdf)
+- **Para Classificação dos Tribunais e Órgãos:** [Tribunais - Portal CNJ](https://www.cnj.jus.br/poder-judiciario/tribunais/) | [TRT - Órgãos](https://tst.jus.br/web/estatistica/trt/orgaos)
 
 ## Dependências
 
